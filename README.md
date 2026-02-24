@@ -1,9 +1,11 @@
 # Criando-um-Sistema-Bancario-com-Python
-menu:
-[d] Depositar
-[s] Sacar
-[e] Extrato
-[q] Sair
+menu:  
+
+[d] Depositar  
+[s] Sacar  
+[e] Extrato  
+[q] Sair  
+
 
 saldo = 0
 limite = 500
