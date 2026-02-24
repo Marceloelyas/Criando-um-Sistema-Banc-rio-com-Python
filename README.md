@@ -1,5 +1,5 @@
 # Criando-um-Sistema-Bancario-com-Python
-menu:  
+**menu:**  
 
 [d] Depositar  
 [s] Sacar  
@@ -7,11 +7,11 @@ menu:
 [q] Sair  
 
 
-saldo = 0
-limite = 500
-extrato = ""
-numero_saques = 0
-LIMITE_SAQUES = 3
+**saldo** = 0  
+**limite** = 500  
+**extrato** = ""  
+**numero_saques** = 0  
+**LIMITE_SAQUES** = 3  
 
 while True:
     opcao = input(menu)
