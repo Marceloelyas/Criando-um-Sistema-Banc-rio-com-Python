@@ -1,10 +1,10 @@
 # Criando-um-Sistema-Bancario-com-Python
 **menu:**  
 
-[d] Depositar  
-[s] Sacar  
-[e] Extrato  
-[q] Sair  
+[**d**] **D**epositar  
+[**s**] **S**acar  
+[**e**] **E**xtrato  
+[**q**] **S**air  
 
 
 **saldo** = 0  
