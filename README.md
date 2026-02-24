@@ -1,11 +1,11 @@
 # Criando-um-Sistema-Bancario-com-Python
-menu = """
+menu = 
 [d] Depositar
 [s] Sacar
 [e] Extrato
 [q] Sair
 
-=> """
+=> 
 
 saldo = 0
 limite = 500
@@ -31,7 +31,7 @@ while True:
 
         excedeu_saldo = valor > saldo
         excedeu_limite = valor > limite
-        excedeu_saques = numero_saques >= LIMITE_SAQUES
+        excedeu_saques = numero_saques => LIMITE_SAQUES
 
         if excedeu_saldo:
             print("Operação falhou! Você não tem saldo suficiente.")
